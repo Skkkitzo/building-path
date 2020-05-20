@@ -1,0 +1,12 @@
+{
+    "Name": "Building Path Example",
+    "Author": "Skkkitzo",
+    "Description": "An example mod to show you how to use building paths",
+    "Version": "1.0.0",
+    "AdditionalLanguageList": [
+        {
+            "Name": "German",
+            "Code": "de"
+        }
+    ]
+}
